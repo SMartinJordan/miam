@@ -1,0 +1,34 @@
+com/cognizant/miam/services/IngredientService.java
+ com.cognizant.miam.services.IngredientService
+com/cognizant/miam/controllers/Index.java
+ com.cognizant.miam.controllers.Index
+com/cognizant/miam/repositories/RecipeRepository.java
+ com.cognizant.miam.repositories.RecipeRepository
+com/cognizant/miam/models/Ingredient.java
+ com.cognizant.miam.models.Ingredient
+com/cognizant/miam/repositories/IngredientRepository.java
+ com.cognizant.miam.repositories.IngredientRepository
+com/cognizant/miam/controllers/IngredientController.java
+ com.cognizant.miam.controllers.IngredientController
+com/cognizant/miam/models/Recipe.java
+ com.cognizant.miam.models.Recipe
+ com.cognizant.miam.models.Recipe$Builder
+com/cognizant/miam/dto/IngredientDTO.java
+ com.cognizant.miam.dto.IngredientDTO
+com/cognizant/miam/MiamApplication.java
+ com.cognizant.miam.MiamApplication
+com/cognizant/miam/models/RecipeIngredient.java
+ com.cognizant.miam.models.RecipeIngredient
+com/cognizant/miam/repositories/RecipeIngredientRepository.java
+ com.cognizant.miam.repositories.RecipeIngredientRepository
+com/cognizant/miam/services/IngredientServiceImpl.java
+ com.cognizant.miam.services.IngredientServiceImpl
+com/cognizant/miam/dto/RecipeDTO.java
+ com.cognizant.miam.dto.RecipeDTO
+ com.cognizant.miam.dto.RecipeDTO$Builder
+com/cognizant/miam/controllers/RecipeController.java
+ com.cognizant.miam.controllers.RecipeController
+com/cognizant/miam/services/RecipeServiceImpl.java
+ com.cognizant.miam.services.RecipeServiceImpl
+com/cognizant/miam/services/RecipeService.java
+ com.cognizant.miam.services.RecipeService
